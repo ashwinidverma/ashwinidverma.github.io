@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student working with [Dr. Kavita Joshi](http://academic.ncl.res.in/k.joshi/home/) at CSIR-National Chemical Laboratory, India.
-
-My research interests encompass machine learning, active machine learning, deep learning, probabilistic optimization, reinforcement learning, and large language models.
+Currently, I am a PhD student working with [Dr. Kavita Joshi](http://academic.ncl.res.in/k.joshi/home/) at CSIR-National Chemical Laboratory, India. My research interests encompass the application of machine learning, active learning, deep learning, probabilistic optimization, reinforcement learning, and large language models in the field of material science and process optimization.
 
 I'm currently working on devloping machine learning framework to accelerate the design and synthesis of materials for solid state hydrogen storage.
 

@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Ashwini's Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Ashwini Verma"
 description              : &description "personal description"
