@@ -7,22 +7,20 @@ redirect_from:
   - /about.html
 ---
 
-Currently, I am working as a senior research fellow in the [Dr. Kavita Joshi's](http://academic.ncl.res.in/k.joshi/home/) group at CSIR-National Chemical Laboratory, India.
+I am a PhD student working with [Dr. Kavita Joshi](http://academic.ncl.res.in/k.joshi/home/) at CSIR-National Chemical Laboratory, India.
 
-I am a PhD student at CSIR-National Chemical Laboratory, India, exploring the data-driven accelerated design and synthesis of materials. 
+My research interests encompass machine learning, active machine learning, deep learning, probabilistic optimization, reinforcement learning, and large language models.
 
-My research interests encompass
-machine learning, active machine learning, deep learning, probabilistic optimization,
-reinforcement learning, and large language models.
-
-I'm currently working on devloping machine learning framework to accelerate the design
-and synthesis of materials for solid state hydrogen storage.
+I'm currently working on devloping machine learning framework to accelerate the design and synthesis of materials for solid state hydrogen storage.
 
 Key Contributions
-📌 Developed HEART, an ML framework for predicting equilibrium plateau pressure and hydrogen storage properties.
+
+📌 Developed HEART, an ML framework for predicting hydrogen storage propeties of metal hydrides.
+
 📌 Contributed to HyStor, an extensive experimental database of hydrogen storage alloys.
-📌 Secured two patents on ML-driven prediction of PCT curves and material screening for hydrogen storage.
-📌 Published research in leading journals, bridging AI with material innovation.
+
+
+
 
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and haThis is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
