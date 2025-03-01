@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+Currently, I am working as a senior research fellow in the ([Kavita Joshi's](http://academic.ncl.res.in/k.joshi/home)) group at CSIR-National Chemical Laboratory, India.
+
 I am a PhD student at CSIR-National Chemical Laboratory, India, exploring the data-driven accelerated design and synthesis of materials. 
 
 My research interests encompass
