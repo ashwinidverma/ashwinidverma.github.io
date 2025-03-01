@@ -5,23 +5,31 @@
 # prevent it from being included in the site.
 
 main:
+  - title: "Home"
+
+  - title: "Research Interests"
+    url: /talks/   
+
+
   - title: "Publications"
-    url: /publications/
+    url: https://scholar.google.com/citations?hl=en&user=EySzJqUAAAAJ&view_op=list_works&gmla=AC6lMd_mztCCkNiJdQ-Vt7F7Rrb2LIGfpg9ehJ67Ft_rb-EyMth7XJan6URCKjuq3q0zz3yPJ_HVeEAlhjFI4tqq
+ 
+  - title: "CV"
+    url: /files/Ashwini_CV.pdf
 
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
   - title: "Blog Posts"
     url: /year-archive/
+   
+
+  # - title: "Teaching"
+  #   url: /teaching/    
     
-  - title: "CV"
-    url: /cv/
+  # - title: "Portfolio"
+  #   url: /portfolio/
+        
+  
     
-  - title: "Guide"
-    url: /markdown/
+ 
+    
+  # - title: "Guide"
+  #   url: /markdown/
