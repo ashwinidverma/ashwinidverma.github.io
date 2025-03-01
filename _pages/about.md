@@ -7,15 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Currently, I am a PhD student working with [Dr. Kavita Joshi](http://academic.ncl.res.in/k.joshi/home/) at CSIR-National Chemical Laboratory, India. My research interests encompass the application of machine learning, active learning, deep learning, probabilistic optimization, reinforcement learning, and large language models in the field of material science and process optimization.
+Currently, I am a PhD student working with [Dr. Kavita Joshi](http://academic.ncl.res.in/k.joshi/home/) at CSIR-National Chemical Laboratory, India. I completed my Masters in Physics in 2019 at the Nagpur university, India.  My main research focus is on developing AI/ML-based computational tools to solve problems the field of material science and process optimization. Feel free to reach me through email or LinkedIn!
 
-I'm currently working on devloping machine learning framework to accelerate the design and synthesis of materials for solid state hydrogen storage.
-
-Key Contributions
-
-📌 Developed HEART, an ML framework for predicting hydrogen storage propeties of metal hydrides.
-
-📌 Contributed to HyStor, an extensive experimental database of hydrogen storage alloys.
+                                    Research Interest
 
 
 
