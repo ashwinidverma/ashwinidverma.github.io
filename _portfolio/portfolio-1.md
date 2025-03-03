@@ -8,4 +8,4 @@ excerpt: "In this work we have developed HEART (HydrogEn storAge propeRty predic
 #collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+[](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EySzJqUAAAAJ&citation_for_view=EySzJqUAAAAJ:UeHWp8X0CEIC)
