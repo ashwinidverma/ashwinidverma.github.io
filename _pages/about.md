@@ -9,7 +9,7 @@ redirect_from:
 
 Currently, I am a PhD student working with [Dr. Kavita Joshi](http://academic.ncl.res.in/k.joshi/home/) at CSIR-National Chemical Laboratory, India. I completed my Masters in Physics in 2019 at the Nagpur university, India.  My main research focus is on developing AI/ML-based computational tools to solve problems the field of material science and process optimization. Feel free to reach me through email or LinkedIn!
 
-                                    Research Interest
+
 
 <br/><img src='/images/H2thon_ppt.png'>
 
