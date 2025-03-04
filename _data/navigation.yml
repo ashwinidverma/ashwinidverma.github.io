@@ -7,8 +7,8 @@
 main:
   #- title: "Home"
 
-  - title: "Research Interests"
-    url: /talks/   
+  - title: "Research"
+    url: /portfolio/   
 
 
   - title: "Publications"
@@ -17,8 +17,8 @@ main:
   - title: "CV"
     url: /files/Ashwini_CV.pdf
   
-  - title: "Portfolio"
-    url: /portfolio/
+ # - title: "Portfolio"
+ #   url: /portfolio/
 
  # - title: "Blog Posts"
  #   url: /year-archive/
