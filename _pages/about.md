@@ -10,6 +10,36 @@ redirect_from:
 Currently, I am a PhD student working with [Dr. Kavita Joshi](http://academic.ncl.res.in/k.joshi/home/) at CSIR-National Chemical Laboratory, India. I completed my Masters in Physics in 2019 at the Nagpur university, India.  My main research focus is on developing AI/ML-based computational tools to solve problems the field of material science and process optimization. Feel free to reach me through email or LinkedIn!
 
 
+import { FaFlask, FaBrain, FaRobot, FaChartLine, FaNetworkWired, FaDatabase } from "react-icons/fa";
+
+export default function ResearchInterests() {
+  const interests = [
+    { icon: <FaFlask size={40} />, title: "Accelerated Material Discovery" },
+    { icon: <FaChartLine size={40} />, title: "Property Prediction" },
+    { icon: <FaDatabase size={40} />, title: "Data-Driven Process Optimization" },
+    { icon: <FaBrain size={40} />, title: "Deep Learning" },
+    { icon: <FaRobot size={40} />, title: "Reinforcement Learning" },
+    { icon: <FaNetworkWired size={40} />, title: "Adaptive Learning" },
+    { icon: <FaFlask size={40} />, title: "LLMs in Materials & Chemistry" },
+  ];
+
+  return (
+    <div className="bg-gray-100 py-12 text-center">
+      <h2 className="text-3xl font-bold mb-8">Research Interests</h2>
+      <div className="grid grid-cols-1 md:grid-cols-3 gap-6 px-6 max-w-5xl mx-auto">
+        {interests.map((item, index) => (
+          <div
+            key={index}
+            className="bg-white p-6 rounded-2xl shadow-lg flex flex-col items-center space-y-4"
+          >
+            <div className="text-blue-500">{item.icon}</div>
+            <h3 className="text-lg font-semibold">{item.title}</h3>
+          </div>
+        ))}
+      </div>
+    </div>
+  );
+}
 
 <br/><img src='/images/H2thon_ppt.png'>
 
