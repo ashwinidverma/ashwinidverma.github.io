@@ -12,7 +12,7 @@ Currently, I am a PhD student working with [Dr. Kavita Joshi](http://academic.nc
 
 
 
-<br/><img src='/images/Fuelcell_Ionomer_problem_satement.png'>
+<br/><img src='/images/Fuelcell_Ionomer_problem_satement2.png'>
 
 
 
