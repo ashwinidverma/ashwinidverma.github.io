@@ -6,8 +6,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am currently a Ph.D. candidate at CSIR–National Chemical Laboratory, India, working with [Dr. Kavita Joshi](http://academic.ncl.res.in/k.joshi/home/). My academic journey began with a Bachelor’s degree in Physics, Computer Science, and Mathematics from Nagpur University (2016), followed by a Master’s in Physics (2019) from the same university.
 
-Currently, I am a PhD student working with [Dr. Kavita Joshi](http://academic.ncl.res.in/k.joshi/home/) at CSIR-National Chemical Laboratory, India. I completed my Masters in Physics in 2019 at the Nagpur university, India.  My main research focus is on developing AI/ML-based computational tools to solve problems the field of material science and process optimization. Feel free to reach me through email or LinkedIn!
+My research lies at the intersection of materials science and artificial intelligence. I focus on developing data-driven computational frameworks to accelerate materials discovery and enable process optimization. I am particularly interested in leveraging data-driven methods to accelerate technology development, particularly in clean energy sectors like hydrogen, fuel cells, solar and batteries.
+
+Feel free to connect for academic discussions, collaborations, or to learn more about my work. You can reach me via [Email](ashwini.dverma@gmail.com) or [LinkedIn](https://www.linkedin.com/in/ashwinidverma/).
+
+
+
 
 
 
