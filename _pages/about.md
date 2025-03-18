@@ -18,7 +18,7 @@ Feel free to connect for academic discussions, collaborations, or to learn more 
 
 
 
-<br/><img src='/images/Fuelcell_Ionomer_problem_satement2.png'>
+<br/><img src='/images/Home.png'>
 
 
 
