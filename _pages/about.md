@@ -10,7 +10,7 @@ I am currently a Ph.D. candidate at CSIR–National Chemical Laboratory, India, 
 
 My research lies at the intersection of materials science and artificial intelligence. I focus on developing data-driven computational frameworks to accelerate materials discovery and enable process optimization. I am particularly interested in leveraging data-driven methods to accelerate technology development, particularly in clean energy sectors like hydrogen, fuel cells, solar and batteries.
 
-Feel free to connect for academic discussions, collaborations, or to learn more about my work. You can reach me via [Email](ashwini.dverma@gmail.com) or [LinkedIn](https://www.linkedin.com/in/ashwinidverma/).
+Feel free to connect for academic discussions, collaborations, or to learn more about my work. You can reach me via Email or [LinkedIn](https://www.linkedin.com/in/ashwinidverma/).
 
 
 
